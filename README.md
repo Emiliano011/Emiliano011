@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Emiliano011
 - 👀 I’m interested in web dev
 - 🌱 I’m currently learning frontend web dev
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on many frontend projects
 - 📫 How to reach me ...
 
 <!---
